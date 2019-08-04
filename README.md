@@ -6,3 +6,6 @@
 > and animate for a game in a terminal for a newb so I'm just committing this for safekeeping or memories :)  
 
 Todo: Rewrite to web, maybe? I dunno  
+And oh, I just committed everything. I don't know which one to ignore,  
+but if you want to try it out and experience art >:D  
+you may download the 'Release' folder.  
