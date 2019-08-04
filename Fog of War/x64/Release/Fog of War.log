@@ -1,0 +1,10 @@
+﻿  Source.cpp
+Source.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(270): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(536): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(597): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(785): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 412 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Fog of War.vcxproj -> C:\Users\Alexander\Desktop\My Programs\Fog of War\x64\Release\Fog of War.exe

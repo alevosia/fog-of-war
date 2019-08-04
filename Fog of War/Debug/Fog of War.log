@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\alexander\desktop\my programs\fog of war\fog of war\source.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alexander\desktop\my programs\fog of war\fog of war\source.cpp(270): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alexander\desktop\my programs\fog of war\fog of war\source.cpp(536): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alexander\desktop\my programs\fog of war\fog of war\source.cpp(597): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alexander\desktop\my programs\fog of war\fog of war\source.cpp(785): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Fog of War.vcxproj -> C:\Users\Alexander\Desktop\My Programs\Fog of War\Debug\Fog of War.exe
