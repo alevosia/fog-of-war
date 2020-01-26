@@ -1,7 +1,7 @@
 // _________________________________
 //|                                 |
-//|  Coded by: Alexandrinne Levi    |
-//|		SE Student of iAcademy		|
+//|         Coded by: Alex          |
+//|     SE Student of iAcademy      |
 //|_________________________________|
 //For recreational use only. Share to your friends and have fun.
 //Not for retail, selling or any ways of creating income.
